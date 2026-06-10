@@ -26,8 +26,8 @@
 >
 > - Indique abaixo onde está, dentro deste repositório, o código-fonte usado para gerar a visualização.
 
-- **Arquivo principal**: [Gráfico de Coordenadas Paralelas](Gráfico de Coordenadas Paralelas.ipynb)
-- **Arquivos complementares (se houver)**: [Gráfico de Dispersão](Gráfico de Dispersão.ipynb)
+- **Arquivo principal**: [Gráfico de Coordenadas Paralelas](Gráfico%20de%20Coordenadas%20Paralelas.ipynb)
+- **Arquivo complementar**: [Gráfico de Dispersão](Gráfico%20de%20Dispersão.ipynb)
 
 ## Imagem da visualização gerada
 
