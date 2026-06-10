@@ -6,8 +6,8 @@
 
 ## Identificação
 
-- **Nome**: <mark>`<preencher>`</mark>
-- **Cartão UFRGS:** <mark>`<preencher>`</mark>
+- **Nome**: <mark>`Gabriel Pieruccini Knopp`</mark>
+- **Cartão UFRGS:** <mark>`00594975`</mark>
 
 ## Dados utilizados
 
@@ -17,11 +17,8 @@
 > - Se houver mais de um conjunto de dados, liste todos separadamente.
 > - Para cada conjunto de dados, inclua também uma **descrição curta** explicando os dados.
 
-1. **Dataset 1**: <mark>`<link>`</mark>
-    * **Descrição curta**: <mark>`<preencher>`</mark>
-2. **Dataset 2**: <mark>`<link>`</mark>
-    * **Descrição curta**: <mark>`<preencher>`</mark>
-3. ...
+1. **Dataset 1**: <mark>`[<link>](https://www.kaggle.com/datasets/aiexplorer77/gaming-vs-academic-performance/data)`</mark>
+    * **Descrição curta**: <mark>`Conjunto de dados com hábitos da vida de estudantes e performance acadêmica, além de informações adicionais relacionadas às práticas de jogo da pessoa (como tipo de jogo, tempo de reação e "vício").`</mark>
 
 ## Código-fonte da visualização
 
